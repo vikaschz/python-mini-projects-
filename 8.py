@@ -36,6 +36,4 @@ if __name__ == "__main__":
     main()
 
 
-git add 8.py
-git commit -m "Added Number Guessing Game with History program"
-git push
+
